@@ -36,9 +36,9 @@ Welcome to the **E-commerce Recommendation System**! This project provides perso
 - pip
 
 
-```
 
-## Contributing
+
+### Contributing
 
 Contributions are welcome! Please open issues or submit pull requests for new features, bug fixes, or improvements.
 
@@ -48,7 +48,7 @@ Contributions are welcome! Please open issues or submit pull requests for new fe
 4. Push to the branch (`git push origin feature/foo`)
 5. Open a pull request
 
-## License
+### License
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
